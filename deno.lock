@@ -1,0 +1,19 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@hexagon/proper-tags@^2.0.2": "jsr:@hexagon/proper-tags@2.0.2"
+    },
+    "jsr": {
+      "@hexagon/proper-tags@2.0.2": {
+        "integrity": "c33ece3140572f4355098380765361ea2f4b596a9ad24467d566f541888ead90"
+      }
+    }
+  },
+  "remote": {},
+  "workspace": {
+    "dependencies": [
+      "jsr:@hexagon/proper-tags@^2.0.2"
+    ]
+  }
+}
