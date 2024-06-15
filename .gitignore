@@ -1,2 +1,2 @@
-bookmarks/*
-data/*
+data/*.json
+bookmarks/*.md
